@@ -1,2 +1,2 @@
 # LEAFLETTER-vulkan
-Redners web pages (in chrome) with WEBGPU for faster performance
+Renders web pages (in chrome) with WEBGPU for faster performance
